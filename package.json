@@ -1,7 +1,7 @@
 {
   "name": "@ui-model/common",
   "version": "0.2.1",
-  "main": "src/public_api.ts",
+  "main": "src/public-api.ts",
   "devDependencies": {
     "@types/date-fns": "^2.6.0"
   },
