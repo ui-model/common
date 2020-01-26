@@ -1,12 +1,12 @@
 {
   "name": "@ui-model/common",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "main": "src/public-api.ts",
   "devDependencies": {
     "@types/date-fns": "^2.6.0"
   },
   "peerDependencies": {
-    "@ui-model/core": "0.2.1",
+    "@ui-model/core": "0.2.2",
     "date-fns": "^1.29.0",
     "rxjs": "^6.0.0"
   }
