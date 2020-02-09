@@ -1,5 +1,5 @@
 {
-  "extends": "../../../tsconfig-lib.json",
+  "extends": "../../../tsconfig.json",
   "compilerOptions": {
     "outDir": "../../../out-tsc/lib",
     "target": "es2015",
@@ -18,7 +18,6 @@
     ],
     "paths": {
       "@ui-model/core": [
-        "dist/ui-model/core",
         "projects/ui-model/core"
       ]
     }
